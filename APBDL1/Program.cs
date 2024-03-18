@@ -11,7 +11,7 @@ public class Program
         int sum = 0;
         foreach (int num in numbers)
         {
-            sumSums += num;
+            sum += num;
         }
 
         double average = (double)sum / numbers.Length;
