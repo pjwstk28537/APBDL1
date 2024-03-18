@@ -1,0 +1,14 @@
+C:\Users\mateu\Desktop\APBD\APBDL1\APBDL1\bin\Debug\net8.0\APBDL1.exe
+C:\Users\mateu\Desktop\APBD\APBDL1\APBDL1\bin\Debug\net8.0\APBDL1.deps.json
+C:\Users\mateu\Desktop\APBD\APBDL1\APBDL1\bin\Debug\net8.0\APBDL1.runtimeconfig.json
+C:\Users\mateu\Desktop\APBD\APBDL1\APBDL1\bin\Debug\net8.0\APBDL1.dll
+C:\Users\mateu\Desktop\APBD\APBDL1\APBDL1\bin\Debug\net8.0\APBDL1.pdb
+C:\Users\mateu\Desktop\APBD\APBDL1\APBDL1\obj\Debug\net8.0\APBDL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Desktop\APBD\APBDL1\APBDL1\obj\Debug\net8.0\APBDL1.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\APBD\APBDL1\APBDL1\obj\Debug\net8.0\APBDL1.AssemblyInfo.cs
+C:\Users\mateu\Desktop\APBD\APBDL1\APBDL1\obj\Debug\net8.0\APBDL1.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\APBD\APBDL1\APBDL1\obj\Debug\net8.0\APBDL1.dll
+C:\Users\mateu\Desktop\APBD\APBDL1\APBDL1\obj\Debug\net8.0\refint\APBDL1.dll
+C:\Users\mateu\Desktop\APBD\APBDL1\APBDL1\obj\Debug\net8.0\APBDL1.pdb
+C:\Users\mateu\Desktop\APBD\APBDL1\APBDL1\obj\Debug\net8.0\APBDL1.genruntimeconfig.cache
+C:\Users\mateu\Desktop\APBD\APBDL1\APBDL1\obj\Debug\net8.0\ref\APBDL1.dll
