@@ -8,7 +8,7 @@ public class Program
         {
             throw new ArgumentException("The input array must not be null/empty.");
         }
-        int sum = 0;
+        int notSum = 0;
         foreach (int num in numbers)
         {
             sum += num;
